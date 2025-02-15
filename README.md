@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Fadi and I'm a Software Dev and CS student at the RWTH Aachen University.</h2>
+# Hi! My name is Fadi and I'm a Software Dev and CS student at the RWTH Aachen University.
 
 ###
 
@@ -64,13 +64,13 @@
 
 ###
 
-<h3 align="left">Currently Working On...</h3>
+## Currently Working On...
 
 ###
 
 ![412889682-6f8a783c-c526-4ee3-a56b-bd781ad5ba9d](https://github.com/user-attachments/assets/552774b3-6558-427f-8c92-c2196cae4a0d)
 
-# PaperLab
+### PaperLab
 
 PaperLab is transforming the academic research and writing process. Our intelligent platform combines everything students and researchers need for efficient work: smart literature search across major databases, automatic citation detection and uniform formatting, plagiarism checks, a LaTeX editor, and AI-powered improvement suggestions. Everything seamlessly combined together. No chaos, no eternal search for sources – just focused work on what truly matters
 
