@@ -72,9 +72,10 @@
 
 ###
 
-![Banner](https://github.com/user-attachments/assets/6f8a783c-c526-4ee3-a56b-bd781ad5ba9d) # PaperLab
+![Banner](https://github.com/user-attachments/assets/6f8a783c-c526-4ee3-a56b-bd781ad5ba9d)
+
+# PaperLab
 
 PaperLab is transforming the academic research and writing process. Our intelligent platform combines everything students and researchers need for efficient work: smart literature search across major databases, automatic citation detection and uniform formatting, plagiarism checks, a LaTeX editor, and AI-powered improvement suggestions. Everything seamlessly combined together. No chaos, no eternal search for sources – just focused work on what truly matters
 
 We make academic research efficient and effortless!
-
