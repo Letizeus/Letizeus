@@ -1,4 +1,4 @@
-# Hi! My name is Fadi and I'm a Software Dev and CS student at the RWTH Aachen University.
+# Enjoy your stay!
 
 ###
 
