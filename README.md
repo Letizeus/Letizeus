@@ -74,9 +74,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Letizeus/Letizeus/output/snake.svg" alt="Snake animation" />
-
-###
