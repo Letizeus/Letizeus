@@ -1,4 +1,4 @@
-<h1 align="left">Hi! My name is Fadi and I'm a Software Dev and CS student at the RWTH Aachen University.</h1>
+<h2 align="left">Hi! My name is Fadi and I'm a Software Dev and CS student at the RWTH Aachen University.</h2>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h3 align="left">Tech Stack</h3>
 
 ###
 
