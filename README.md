@@ -64,7 +64,7 @@
 
 ###
 
-## Current Position: Software Developer @ Entscheidungsnavi
+## Current Position: Software Developer @ EFi
 
 I am currently working as a **Software Developer** at the **Lehr- und Forschungsgebiets Entscheidungsforschung und Finanzdienstleistungen (EFi) at RWTH Aachen**. My role involves the development and maintenance of **Entscheidungsnavi**, an open-source tool designed to support reflective decision-making processes.
 
