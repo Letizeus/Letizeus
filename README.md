@@ -68,7 +68,7 @@
 
 ###
 
-![Banner](https://github.com/user-attachments/assets/6f8a783c-c526-4ee3-a56b-bd781ad5ba9d)
+![412889682-6f8a783c-c526-4ee3-a56b-bd781ad5ba9d](https://github.com/user-attachments/assets/552774b3-6558-427f-8c92-c2196cae4a0d)
 
 # PaperLab
 
