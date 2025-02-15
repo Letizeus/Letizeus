@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/65832062?v=4"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
   <img width="12" />
