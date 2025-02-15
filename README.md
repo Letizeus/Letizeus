@@ -13,10 +13,6 @@
 
 ###
 
-<h3 align="left">Tech Stack</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
   <img width="12" />
@@ -65,10 +61,6 @@
 
 ###
 
-<h3 align="left">Connect with Me</h3>
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/fadi.cloud/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -82,3 +74,15 @@
 </div>
 
 ###
+
+<h3 align="left">Currently Working On...</h3>
+
+###
+
+![Banner](https://github.com/user-attachments/assets/6f8a783c-c526-4ee3-a56b-bd781ad5ba9d)
+# PaperLab
+
+PaperLab is transforming the academic research and writing process. Our intelligent platform combines everything students and researchers need for efficient work: smart literature search across major databases, automatic citation detection and uniform formatting, plagiarism checks, a LaTeX editor, and AI-powered improvement suggestions. Everything seamlessly combined together. No chaos, no eternal search for sources – just focused work on what truly matters
+
+We make academic research efficient and effortless!
+
