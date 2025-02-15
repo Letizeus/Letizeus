@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Fadi and I'm a Software Dev and CS student at the RWTH Aachen University.</h2>
+<h1 align="left">Hi! My name is Fadi and I'm a Software Dev and CS student at the RWTH Aachen University.</h1>
 
 ###
 
@@ -11,7 +11,11 @@
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/65832062?v=4"  />
 
-### Tech Stack
+###
+
+<h2 align="left">Tech Stack</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
