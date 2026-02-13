@@ -20,7 +20,7 @@
 
 I am currently working as a **Software Developer** at the **Lehr- und Forschungsgebiets Entscheidungsforschung und Finanzdienstleistungen (EFi) at RWTH Aachen**. My role involves the development and maintenance of **Entscheidungsnavi**, an open-source tool designed to support reflective decision-making processes.
 
-**Project Link:** [Entscheidungsnavi](https://entscheidungsnavi.de)  
+**Project Link:** [Entscheidungsnavi](https://entscheidungsnavi.com)  
 **Tech Stack:** typescript, Angular, NestJS, Node.js
 
 ###
