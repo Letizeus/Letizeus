@@ -2,9 +2,11 @@
 
 ###
 
-<div align="left" style="font-size:0; line-height:0;">
-  <a href="https://www.instagram.com/fadi.cloud/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=111827&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" hspace="3" /></a><a href="https://www.linkedin.com/in/fadi-eliwi/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=111827&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" hspace="3" /></a><a href="mailto:fadieliwi@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=111827&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-</div>
+<p align="left">
+  <a href="https://www.instagram.com/fadi.cloud/"><img alt="Instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=111827&logoColor=white&labelColor=&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/fadi-eliwi/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=111827&logoColor=white&labelColor=&style=for-the-badge"></a>
+  <a href="mailto:fadieliwi@gmail.com"><img alt="Gmail" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=111827&logoColor=white&labelColor=&style=for-the-badge"></a>
+</p>
 
 ###
 
