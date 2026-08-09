@@ -40,3 +40,5 @@ I am currently working as a **Software Developer** at the **Lehr- und Forschungs
 Citerra is redefining how academic work gets done. It brings search, writing, citation management, plagiarism detection and AI guidance into one uninterrupted workflow. You can find the right literature across leading databases, capture and format citations automatically, work in LaTeX or a clean visual editor, analyze your PDFs, and refine your writing with intelligent suggestions. Everything stays organized, consistent and connected so you can focus on the thinking, not the tooling.
 
 Academic research becomes clear, fast and effortless.
+
+**Project Link:** [Citerra](https://www.citerra.de/) (join the waitlist)
